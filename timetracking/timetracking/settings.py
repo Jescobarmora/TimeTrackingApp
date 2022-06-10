@@ -24,7 +24,7 @@ EMAIL_HOST_USER = 'apikey'
 EMAIL_HOST_PASSWORD = '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'
 EMAIL_PORT = 587
 EMAIL_USE_TLS = True
-DEFAULT_EMAIL_FROM = 'Minutos <noreply@codewithstein.com>'
+DEFAULT_EMAIL_FROM = 'TimeTrackingApp <jescobarmora.cb@hotmail.com>'
 
 WEBSITE_URL = 'http://127.0.0.1:8000'
 ACCEPTATION_URL = WEBSITE_URL + '/signup/'
